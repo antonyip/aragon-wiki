@@ -8,6 +8,9 @@ install:
     - pip install mkdocs==0.17.3 # Install the required dependencies
     - pip install mkdocs-material==2.7.3 # Install the required dependencies
 
+script:
+    - mkdocs gh-deploy
+
 deploy:
   provider: pages
   skip-cleanup: true

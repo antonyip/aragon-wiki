@@ -16,11 +16,4 @@ deploy: # Deploy documentation to Github in the gh_pages branch
     skip_cleanup: true
     github_token: $github_token
     local_dir: site
-
-after_success:
-  - git config user.name "Anton Yip";
-  - git config user.email "dougal@dougalmatthews.com";
-  - git remote add gh-token "https://${github_token}@github.com/antonyip/aragon-wiki.git";
-  - git fetch gh-token && git fetch gh-token gh-pages:gh-pages;
-  - pip install -IU -r test-requirements.txt retrace;
-  - mkdocs gh-deploy -v --clean --remote-name gh-token;
+    verbose: true

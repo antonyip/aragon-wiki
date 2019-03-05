@@ -8,12 +8,10 @@ install:
     - pip install mkdocs==0.17.3 # Install the required dependencies
     - pip install mkdocs-material==2.7.3 # Install the required dependencies
 
-before_deploy:
-    - mkdocs build --verbose --clean --strict # Build a local version of the docs
-
 after_success:
   - git config user.name "Anton Yip";
   - git config user.email "hello@antonyip.com";
   - git remote add gh-token "https://${github_token}@github.com/antonyip/aragon-wiki.git";
   - git fetch gh-token && git fetch gh-token gh-pages:gh-pages;
   - mkdocs gh-deploy -v --clean --remote-name gh-token;
+  

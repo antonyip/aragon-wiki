@@ -3,7 +3,7 @@
 
     
     <url>
-     <loc>https://wiki.aragon.org/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -12,95 +12,73 @@
     
         
     <url>
-     <loc>https://wiki.aragon.org/documentation/glossary/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/glossary/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org/documentation/whitepaper/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/whitepaper/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org/documentation/aragon_network_token/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/aragon_network_token/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org</loc>
+     <loc>https://antonyip.github.io/aragon-wiki</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org/documentation/manifesto/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/manifesto/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org</loc>
+     <loc>https://antonyip.github.io/aragon-wiki</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org/documentation/Development_Plan/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/Development_Plan/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org/documentation/Code_of_Conduct/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/Code_of_Conduct/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org/documentation/event_policy/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/event_policy/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org</loc>
+     <loc>https://antonyip.github.io/aragon-wiki</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org</loc>
+     <loc>https://antonyip.github.io/aragon-wiki</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org/projects/</loc>
-     <lastmod>2019-03-05</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>https://wiki.aragon.org/dev/</loc>
-     <lastmod>2019-03-05</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://wiki.aragon.org</loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://wiki.aragon.org/dev/bug_bounty/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/projects/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -110,88 +88,20 @@
     
         
     <url>
-     <loc>https://wiki.aragon.org/tutorials/Aragon_User_Guide/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/dev/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org/tutorials/DAO_Workshop_Testnet_by_joselfgaray/</loc>
-     <lastmod>2019-03-05</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://wiki.aragon.org/tutorials/Status_Open_Bounty_Guide/</loc>
-     <lastmod>2019-03-05</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>https://wiki.aragon.org/design/</loc>
-     <lastmod>2019-03-05</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://wiki.aragon.org/design/logo/</loc>
-     <lastmod>2019-03-05</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://wiki.aragon.org/design/powered_by_aragon/</loc>
-     <lastmod>2019-03-05</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://wiki.aragon.org/design/artwork/</loc>
-     <lastmod>2019-03-05</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://wiki.aragon.org/design/identity_guidelines/</loc>
-     <lastmod>2019-03-05</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://wiki.aragon.org/design/branding_proposal/</loc>
-     <lastmod>2019-03-05</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://wiki.aragon.org/design/merch/</loc>
-     <lastmod>2019-03-05</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>https://wiki.aragon.org/jobs/</loc>
-     <lastmod>2019-03-05</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://wiki.aragon.org</loc>
+     <loc>https://antonyip.github.io/aragon-wiki</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org</loc>
-     <lastmod></lastmod>
+     <loc>https://antonyip.github.io/aragon-wiki/dev/bug_bounty/</loc>
+     <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -200,25 +110,87 @@
     
         
     <url>
-     <loc>https://wiki.aragon.org/blog/2019/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/tutorials/Aragon_User_Guide/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org/blog/2018/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/tutorials/DAO_Workshop_Testnet_by_joselfgaray/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org/blog/2017/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/tutorials/Status_Open_Bounty_Guide/</loc>
+     <lastmod>2019-03-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/design/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/design/logo/</loc>
+     <lastmod>2019-03-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/design/powered_by_aragon/</loc>
+     <lastmod>2019-03-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/design/artwork/</loc>
+     <lastmod>2019-03-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/design/identity_guidelines/</loc>
+     <lastmod>2019-03-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/design/branding_proposal/</loc>
+     <lastmod>2019-03-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/design/merch/</loc>
+     <lastmod>2019-03-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/jobs/</loc>
+     <lastmod>2019-03-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -228,25 +200,53 @@
     
         
     <url>
-     <loc>https://wiki.aragon.org/videos/tutorials/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/blog/2019/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/blog/2018/</loc>
+     <lastmod>2019-03-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/blog/2017/</loc>
+     <lastmod>2019-03-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/videos/tutorials/</loc>
+     <lastmod>2019-03-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org/videos/interviews/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/videos/interviews/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org/videos/presentations/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/videos/presentations/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -256,13 +256,13 @@
     
         
     <url>
-     <loc>https://wiki.aragon.org/press/press-kit/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/press/press-kit/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org/press/media-mentions/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/press/media-mentions/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -271,7 +271,7 @@
 
     
     <url>
-     <loc>https://wiki.aragon.org/nest/</loc>
+     <loc>https://antonyip.github.io/aragon-wiki/nest/</loc>
      <lastmod>2019-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -280,19 +280,19 @@
     
         
     <url>
-     <loc>https://wiki.aragon.org</loc>
+     <loc>https://antonyip.github.io/aragon-wiki</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org</loc>
+     <loc>https://antonyip.github.io/aragon-wiki</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://wiki.aragon.org</loc>
+     <loc>https://antonyip.github.io/aragon-wiki</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>

@@ -1,6 +1,6 @@
 language: python # Set the build language to Python
 
-python: 3.6 # Set the version of Python to use
+python: 3.5 # Set the version of Python to use
 
 branches: 107 # Set the branch to build from
 
@@ -8,10 +8,13 @@ install:
     - pip install mkdocs==0.17.3 # Install the required dependencies
     - pip install mkdocs-material==2.7.3 # Install the required dependencies
 
-after_success:
-  - git config user.name "Anton Yip";
-  - git config user.email "hello@antonyip.com";
-  - git remote add gh-token "https://${github_token}@github.com/antonyip/aragon-wiki.git";
-  - git fetch gh-token && git fetch gh-token gh-pages:gh-pages;
-  - mkdocs gh-deploy -v --clean --remote-name gh-token;
-  
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $github_token  # Set in the settings page of your repository, as a secure variable
+  local-dir: site
+  keep-history: true
+  target-branch: gh-pages
+  verbose: true
+  on:
+    branch: 107

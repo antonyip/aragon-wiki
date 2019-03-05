@@ -1,7 +1,7 @@
 site_name: 'Aragon Wiki'
 site_url: https://wiki.aragon.org
 repo_name: 'aragon/aragon-wiki'
-repo_url: 'https://github.com/aragon/aragon-wiki'
+repo_url: 'https://github.com/antonyip/aragon-wiki'
 site_description: 'Wiki for the Aragon Project'
 theme:
   name: 'material'
@@ -204,3 +204,6 @@ pages:
       - Meetings:
         - Aragon HQ: 'archive/videos/hq.md'
         - Dev: 'archive/videos/dev.md'
+      - Templates:
+        - Dev Accept Template: 'videos/all_devs_accepted.md'
+        - Dev Reject Template: 'videos/all_devs_rejected.md'

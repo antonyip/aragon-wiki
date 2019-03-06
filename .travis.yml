@@ -1,15 +1,15 @@
 language: python # Set the build language to Python
 
-python: 3.5 # Set the version of Python to use
+python: 3.7.2 # Set the version of Python to use
 
 branches: 107 # Set the branch to build from
 
 install:
-    - pip install mkdocs==0.17.3 # Install the required dependencies
-    - pip install mkdocs-material==2.7.3 # Install the required dependencies
+    - pip install mkdocs # Install the required dependencies
+    - pip install mkdocs-material # Install the required dependencies
 
 script:
-    - mkdocs build --verbose --clean --strict # Build a local version of the docs
+    - mkdocs build --verbose --clean # Build a local version of the docs
 
 deploy:
   provider: pages

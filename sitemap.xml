@@ -1,296 +1,703 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/documentation/glossary/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/documentation/whitepaper/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/documentation/aragon_network_token/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://antonyip.github.io/aragon-wiki</loc>
-     <lastmod></lastmod>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/governance/</loc>
+     <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/association_ant/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/documentation/manifesto/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://antonyip.github.io/aragon-wiki</loc>
-     <lastmod></lastmod>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/multisigs/overview/</loc>
+     <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/multisigs/association/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/multisigs/community/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/documentation/Code_of_Conduct/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/documentation/event_policy/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://antonyip.github.io/aragon-wiki</loc>
-     <lastmod></lastmod>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/legal/Licenses/</loc>
+     <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://antonyip.github.io/aragon-wiki</loc>
-     <lastmod></lastmod>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/legal/CLA/</loc>
+     <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/legal/Trademark_policy/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/legal/Terms_of_use_websites/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/legal/Privacy_policy/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/audits/audit01_report_dossa/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/audits/audit_internal_sun/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/audits/audit_whg01_report/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/audits/aragonOS_report/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/projects/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/dev/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://antonyip.github.io/aragon-wiki</loc>
-     <lastmod></lastmod>
+     <loc>https://antonyip.github.io/aragon-wiki/dev/apps/</loc>
+     <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/dev/apps/voting/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/dev/apps/token-manager/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/dev/apps/fundraising/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/dev/apps/vault/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/dev/apps/finance/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/dev/bug_bounty/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/tutorials/Aragon_User_Guide/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/tutorials/DAO_Workshop_Testnet_by_joselfgaray/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/tutorials/Status_Open_Bounty_Guide/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/design/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/design/logo/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/design/powered_by_aragon/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/design/artwork/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/design/identity_guidelines/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/design/branding_proposal/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/design/merch/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/jobs/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://antonyip.github.io/aragon-wiki</loc>
-     <lastmod></lastmod>
+     <loc>https://antonyip.github.io/aragon-wiki/jobs/openings/frontend/</loc>
+     <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://antonyip.github.io/aragon-wiki</loc>
-     <lastmod></lastmod>
+     <loc>https://antonyip.github.io/aragon-wiki/jobs/openings/dev-ops/</loc>
+     <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/jobs/openings/solidity/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/jobs/openings/technical-writer/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/jobs/openings/dev_rel/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/jobs/openings/DAC-Technical_Writer/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/blog/2019/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/blog/2018/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/blog/2017/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://antonyip.github.io/aragon-wiki</loc>
-     <lastmod></lastmod>
+     <loc>https://antonyip.github.io/aragon-wiki/blog/A1/2019/</loc>
+     <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/blog/A1/2018/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/videos/tutorials/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://antonyip.github.io/aragon-wiki</loc>
-     <lastmod></lastmod>
+     <loc>https://antonyip.github.io/aragon-wiki/videos/community/</loc>
+     <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/videos/dev/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/videos/template/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/videos/running_all_devs/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/videos/interviews/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/videos/presentations/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/press/press-kit/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/press/media-mentions/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
     <url>
      <loc>https://antonyip.github.io/aragon-wiki/nest/</loc>
      <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-        
     <url>
-     <loc>https://antonyip.github.io/aragon-wiki</loc>
-     <lastmod></lastmod>
+     <loc>https://antonyip.github.io/aragon-wiki/archive/documentation/aragonOS_201/</loc>
+     <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://antonyip.github.io/aragon-wiki</loc>
-     <lastmod></lastmod>
+     <loc>https://antonyip.github.io/aragon-wiki/archive/documentation/agp5/RocketChat/</loc>
+     <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://antonyip.github.io/aragon-wiki</loc>
-     <lastmod></lastmod>
+     <loc>https://antonyip.github.io/aragon-wiki/archive/documentation/agp5/Riot/</loc>
+     <lastmod>2019-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/documentation/Development_Plan/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/archive/meetings/hq/01/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/archive/meetings/hq/02/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/archive/meetings/hq/03/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/archive/meetings/dev/01/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/archive/meetings/dev/02/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/11/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/10/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm10/alexa/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm10/bingen/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm10/brett/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm10/chris/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm10/john/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm10/jorge/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm10/jouni/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm10/luis/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm10/luke/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm10/maria/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm10/oliver/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm10/pierre/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm10/tatu/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/09/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm09/alexa/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm09/bingen/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm09/brett/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm09/john/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm09/jorge/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm09/jouni/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm09/luis/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm09/luke/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm09/maria/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm09/oliver/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm09/pierre/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm09/tatu/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/08/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm08/alexa/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm08/brett/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm08/john/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm08/jorge/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm08/luis/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm08/luke/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm08/maria/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm08/oliver/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm08/pierre/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm08/tatu/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/07/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm07/alexa/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm07/brett/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm07/light-cm07/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm07/jorge/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm07/luis/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm07/luke/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm07/maria/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm07/oliver/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm07/pierre/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm07/tatu/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/06/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm06/brett/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm06/john/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm06/jorge/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm06/luis/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm06/luke/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm06/maria/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm06/oliver/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm06/pierre/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/write-ups/cm06/tatu/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/05/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/04/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/03/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/02/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/meetings/community/01/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/archive/videos/hq/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/archive/videos/dev/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/videos/all_devs_accepted/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://antonyip.github.io/aragon-wiki/videos/all_devs_rejected/</loc>
+     <lastmod>2019-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
 </urlset>

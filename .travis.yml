@@ -21,3 +21,9 @@ deploy:
   verbose: true
   on:
     branch: 107
+
+matrix:
+  include:
+    - python: 3.7
+      dist: xenial
+      sudo: true

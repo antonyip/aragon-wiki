@@ -14,7 +14,7 @@ script:
 deploy:
   provider: pages
   skip-cleanup: true
-  github-token: $github_token  # Set in the settings page of your repository, as a secure variable
+  github-token: $aragon_wiki_github_token  # Set in the settings page of your repository, as a secure variable
   local-dir: site
   keep-history: true
   target-branch: gh-pages
